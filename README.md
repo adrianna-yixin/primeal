@@ -23,12 +23,12 @@ You can access the live API documentation directly at: [Primeal API Documentatio
 6. Access the Swagger UI for API interaction at: `http://localhost:8080/swagger-ui.html`
 
 ## 🛠️ Technologies Used
-- **Java**: Primary programming language.
-- **Spring Boot**: Framework for building the REST API.
-- **Spring Security**: For handling authentication and authorization.
-- **JWT**: JSON Web Tokens for secure token-based authentication.
-- **SpringDoc OpenAPI**: For generating interactive API documentation.
-- **MySQL**: Relational database for storing data.
+- **Java**
+- **Spring Boot**
+- **Spring Security**
+- **JWT**
+- **SpringDoc OpenAPI**
+- **MySQL**
 
 ## 👩‍💻 Author
 Yixin Gong - [GitHub Profile](https://github.com/adrianna-yixin)
