@@ -15,7 +15,7 @@ You can access the live API documentation directly at: [Primeal API Documentatio
 
 ### How to Use Locally
 1. Clone the repository:
-   `git clone https://github.com/yourusername/primeal.git`
+   `git clone https://github.com/adrianna-yixin/primeal.git`
 2. Navigate to the project directory: `cd primeal`;
 3. Set up your database (e.g., MySQL) and configure the application.properties file with your credentials;
 4. Run and build the application;
